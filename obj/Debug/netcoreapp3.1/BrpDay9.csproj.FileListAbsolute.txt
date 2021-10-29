@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\bin\Debug\netcoreapp3.1\BrpDay9.exe
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\bin\Debug\netcoreapp3.1\BrpDay9.deps.json
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\bin\Debug\netcoreapp3.1\BrpDay9.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\bin\Debug\netcoreapp3.1\BrpDay9.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\bin\Debug\netcoreapp3.1\BrpDay9.dll
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\bin\Debug\netcoreapp3.1\BrpDay9.pdb
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.dll
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.pdb
+C:\Users\prakash kandula\source\repos\BrpDay9\BrpDay9\obj\Debug\netcoreapp3.1\BrpDay9.genruntimeconfig.cache
